@@ -1,0 +1,21 @@
+.title {
+	text-align: center;
+}
+
+h1 {
+	color: white;
+	font-family: monospace;
+}
+
+p {
+	color: white;
+}
+
+body {
+	background-color: black;
+}
+
+a {
+	color: violet;
+}
+
