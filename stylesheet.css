@@ -11,11 +11,6 @@ p,li {
 	color: white;
 }
 
-li {
-	text-align: center;
-	list-style-position: inside;
-}
-
 body {
 	background-color: black;
 }
